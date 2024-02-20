@@ -1,0 +1,23 @@
+# Reading pref.tcl
+# do Lab11_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/winapps/IntelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/MTU\ Semester\ VI/EE2174\ Digital\ Logic/Lab/Lab11 {D:/MTU Semester VI/EE2174 Digital Logic/Lab/Lab11/Lab11Part1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:06:02 on Apr 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/MTU Semester VI/EE2174 Digital Logic/Lab/Lab11" D:/MTU Semester VI/EE2174 Digital Logic/Lab/Lab11/Lab11Part1.v 
+# -- Compiling module Lab11Part1
+# 
+# Top level modules:
+# 	Lab11Part1
+# End time: 16:06:03 on Apr 17,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 

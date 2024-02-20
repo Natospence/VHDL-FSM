@@ -1,0 +1,9 @@
+
+State Machine - |Lab11Part2|Lab11FSM2:fsm|fstate
+Name fstate.F fstate.E fstate.D fstate.C fstate.B fstate.A 
+fstate.A 0 0 0 0 0 0 
+fstate.B 0 0 0 0 1 1 
+fstate.C 0 0 0 1 0 1 
+fstate.D 0 0 1 0 0 1 
+fstate.E 0 1 0 0 0 1 
+fstate.F 1 0 0 0 0 1 
